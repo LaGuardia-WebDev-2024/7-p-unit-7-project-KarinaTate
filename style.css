@@ -1,15 +1,16 @@
 body {
-  background-color: black;
+  background-color: #006CA5;
   text-align: center;
   color: white;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url("https://media.istockphoto.com/id/1152237432/photo/underwater-scene-tropical-seabed-with-reef-and-sunshine.jpg?s=612x612&w=0&k=20&c=qAe3eZ_bwmrq6CW5IoddV2icSDKsO7vkbQKwqy3ma0o=");
   background-size: 400px;
-  border-radius: 30px;
-  border: 1px solid rgb(255,245,227);
+  border-radius: 400px;
+  border: 5px solid rgb(200,400,700);
+  
 }
 
 .main{
